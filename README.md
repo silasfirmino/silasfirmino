@@ -1,5 +1,5 @@
 
-### Olá! meu nome é silas, conheça mais sobre mim.👋
+### Olá! meu nome é Silas, conheça mais sobre mim.👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/silas-barbosa82)
 
